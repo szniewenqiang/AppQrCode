@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppQrCode", "AppQrCode\AppQrCode.csproj", "{6BB7496A-F1E6-44BA-84A6-052471650AAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppQrCode.Core", "AppQrCode.Core\AppQrCode.Core.csproj", "{1DFCD9D8-B06D-498F-9CE1-20F2ECD01010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB7496A-F1E6-44BA-84A6-052471650AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB7496A-F1E6-44BA-84A6-052471650AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB7496A-F1E6-44BA-84A6-052471650AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB7496A-F1E6-44BA-84A6-052471650AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFCD9D8-B06D-498F-9CE1-20F2ECD01010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFCD9D8-B06D-498F-9CE1-20F2ECD01010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFCD9D8-B06D-498F-9CE1-20F2ECD01010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFCD9D8-B06D-498F-9CE1-20F2ECD01010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6E4FC0-D5EC-44D9-ADF2-B9281118F61A}
+	EndGlobalSection
+EndGlobal
